@@ -1,5 +1,10 @@
 ## Hi, I'm Sergio 👋
 
+I’m proficient in Excel, SQL, Python, and Tableau, with a strong foundation in machine learning algorithms. I enjoy facing challenges head on and can guarantee that no matter the problem, I will do everything in my power to find a solution. 
+
+I have a passion for continuous learning in the ever-evolving tech landscape. My journey began with web development, where I gained experience with JavaScript (Node and React), HTML, and CSS. I created multiple clone websites as well as multiple versions of personal portfolios (which made me realize I'm better at developing than designing 😅). From there I moved on to immersing myself in AI and Machine Learning. Now, I find myself continuously honing my skills and revisiting old courses to reinforce my knowledge and gain fresh insights
+
+You can currently find me at Yokogawa Corporation of America working as a Programming Analyst. Under this role, I'm thriving on the excitement of learning and mastering new skills. My current focus includes delving into SAP, PL/SQL, C#, Tableau while also gaining insights into the everyday business operations within the company. This role allows me to learn something new every day while actively contributing to our team’s success
 
 
 
