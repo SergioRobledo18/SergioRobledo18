@@ -6,6 +6,11 @@ I have a passion for continuous learning in the ever-evolving tech landscape. My
 
 You can currently find me at Yokogawa Corporation of America working as a Programming Analyst. Under this role, I'm thriving on the excitement of learning and mastering new skills. My current focus includes delving into SAP, PL/SQL, C#, Tableau while also gaining insights into the everyday business operations within the company. This role allows me to learn something new every day while actively contributing to our team’s success
 
+## Proficient In
+<img src="https://camo.githubusercontent.com/04bcd2877d02f0c65ff93c7622686e0c5a4d838720a2ff5debe143a30b6eeb58/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3030303f266c6f676f3d507974686f6e" alt="Python" data-canonical-src="https://img.shields.io/badge/-Python-000?&amp;logo=Python" style="max-width: 100%;">
+
+## Experienced In
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e0dc80cecfb9e807086f7318656abbc2bcc0695bf1039d3bee149e65e320b088/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3030303f266c6f676f3d4a617661536372697074"><img src="https://camo.githubusercontent.com/e0dc80cecfb9e807086f7318656abbc2bcc0695bf1039d3bee149e65e320b088/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3030303f266c6f676f3d4a617661536372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-000?&amp;logo=JavaScript" style="max-width: 100%;"></a>
 
 
 <!--
