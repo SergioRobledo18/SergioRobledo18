@@ -6,11 +6,22 @@ I have a passion for continuous learning in the ever-evolving tech landscape. My
 
 You can currently find me at Yokogawa Corporation of America working as a Programming Analyst. Under this role, I'm thriving on the excitement of learning and mastering new skills. My current focus includes delving into SAP, PL/SQL, C#, Tableau while also gaining insights into the everyday business operations within the company. This role allows me to learn something new every day while actively contributing to our team’s success
 
-## Proficient In
-<img src="https://camo.githubusercontent.com/04bcd2877d02f0c65ff93c7622686e0c5a4d838720a2ff5debe143a30b6eeb58/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3030303f266c6f676f3d507974686f6e" alt="Python" data-canonical-src="https://img.shields.io/badge/-Python-000?&amp;logo=Python" style="max-width: 100%;">
-
-## Experienced In
+## Proficient
 <img src="https://github.com/user-attachments/assets/a8b54782-d3e7-4a45-afad-20d6e718be46" alt="Python" style="width: 25px; height: 25px;">
+
+<img src="https://github.com/user-attachments/assets/1e8670fe-96c2-4959-91e5-257e68842d5e" alt="Excel" style="width: 25px; height: 25px;">
+
+<img src="https://github.com/user-attachments/assets/49065ac6-13f7-473e-b02b-2b757ece45f3" alt="Tableau" style="width: 25px; height: 25px;">
+
+<img src="https://github.com/user-attachments/assets/6c13a983-be5c-47ca-af4d-0f614d1a10a8" alt="SQL" style="width: 25px; height: 25px;">
+
+## Experienced
+<img src="https://github.com/user-attachments/assets/a211f282-91bf-443f-8652-97a1d895a3b2" alt="HTML" style="width: 25px; height: 25px;">
+
+<img src="https://github.com/user-attachments/assets/25225722-4801-4392-81e3-a36295583910" alt="CSS" style="width: 25px; height: 25px;">
+
+<img src="https://github.com/user-attachments/assets/8a06fb4c-a3de-45ce-8679-7d33f1e61091" alt="JavaScript" style="width: 25px; height: 25px;">
+
 
 
 <!--
