@@ -10,7 +10,7 @@ You can currently find me at Yokogawa Corporation of America working as a Progra
 <img src="https://camo.githubusercontent.com/04bcd2877d02f0c65ff93c7622686e0c5a4d838720a2ff5debe143a30b6eeb58/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3030303f266c6f676f3d507974686f6e" alt="Python" data-canonical-src="https://img.shields.io/badge/-Python-000?&amp;logo=Python" style="max-width: 100%;">
 
 ## Experienced In
-<img src="https://github.com/user-attachments/assets/a8b54782-d3e7-4a45-afad-20d6e718be46" alt="Python" style="max-width: 50px;">
+<img src="https://github.com/user-attachments/assets/a8b54782-d3e7-4a45-afad-20d6e718be46" alt="Python" style="width: 25px; height: 25px;">
 
 
 <!--
