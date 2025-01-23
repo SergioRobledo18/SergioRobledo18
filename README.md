@@ -22,6 +22,9 @@ You can currently find me at Yokogawa Corporation of America working as a Progra
 
 <img src="https://github.com/user-attachments/assets/8a06fb4c-a3de-45ce-8679-7d33f1e61091" alt="JavaScript" style="width: 25px; height: 25px;">
 
+<img src="https://github.com/user-attachments/assets/dfa7e44b-c3b4-4e24-a4de-6ed6e11f532d" alt="SAP" style="width: 25px; height: 25px;">
+
+<img src="https://github.com/user-attachments/assets/24079be4-dd67-44f8-b5f1-5bf09ba1e537" alt="C#" style="width: 25px; height: 25px;">
 
 
 <!--
